@@ -65,8 +65,11 @@ tts:
 
 # Cloud
 cloud:
+
+#Hue
 sensor:
   - platform: hue
+  
 group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml

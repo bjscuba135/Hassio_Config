@@ -1,0 +1,32 @@
+media_player.living_room_apple_tv:
+  name:
+  platform: apple_tv
+  unique_id: 4886da881120e6de7faa6e1c412ba92e8d72ba4717f6f1acfb921b9721ec1a31
+remote.living_room_apple_tv:
+  name:
+  platform: apple_tv
+  unique_id: 4886da881120e6de7faa6e1c412ba92e8d72ba4717f6f1acfb921b9721ec1a31
+media_player.kd43xd8077:
+  name:
+  platform: cast
+  unique_id: 26f0d0a2-a879-5462-b85d-97d38ea9f3ea
+switch.heater:
+  name:
+  platform: wemo
+  unique_id: 221415K110079D
+switch.christmas_tree:
+  name:
+  platform: wemo
+  unique_id: 221712K1100382
+switch.electric_blanket:
+  name:
+  platform: wemo
+  unique_id: 221331K1100A6D
+light.bedroom:
+  name:
+  platform: wemo
+  unique_id: 94103EA2B2780803
+light.back_hall:
+  name:
+  platform: wemo
+  unique_id: 94103EA2B27806C2
